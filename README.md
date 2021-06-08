@@ -3,6 +3,7 @@
 > I will eventually release dotfiles on my github. I plan on making more scripts for my convenience and ease of use during pentesting. 
 > This machine was driven to it's limit of performance, idling at 110-120 mbs on idle, which is if I may say so myself quite an impressive feat for Kali linux.
 > My webserver follows the nomenclature and theme and is called the pawn. I was planning on creating a rook machine also, but never found the need.
+> I have edited the source of pfetch on both machines in order to display my own ascii.
 
 ## Programs
 - **WM**: BSPWM
@@ -32,5 +33,6 @@
 
 ## Socials
 ![VirtualBox_Kali_08_06_2021_10_59_36](https://user-images.githubusercontent.com/27868690/121161957-c484b300-c84d-11eb-9181-850a001c6861.png)
+
 
 
